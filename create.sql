@@ -1,4 +1,3 @@
--- Active: 1716298711122@@127.0.0.1@3306@gestion_projets
 CREATE DATABASE IF NOT EXISTS gestion_projets;
 USE gestion_projets;
 
