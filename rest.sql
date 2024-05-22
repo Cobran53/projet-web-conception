@@ -1,3 +1,7 @@
+/* Dans le scénario nominal, les retours sont un JSON contenant le résultat de la requête. Sauf dans le cas des requêtes POST, auquel cas les données à mettre à jour
+sont envoyés en JSON au serveur.*/
+
+
 /* Utilisateurs (Users) */
 
 /* GET /users: Récupérer la liste de tous les utilisateurs. */
