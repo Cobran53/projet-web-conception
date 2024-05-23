@@ -4,4 +4,4 @@ Voici les fichiers du projet Web conception du groupe 4A.
 * fill.sql : remplit la base de données de données fictives pour faire les tests.
 * rest.sql : listes des requêtes SQL correspondant aux routes de l'api RESTful.
 
-Fait avec 🩷 par Nolann Boyère, Robinson Roué, Naël Klein et Christian Franck Ngatchou
+Fait avec 🩷 par Nolann Boyère, Robinson Roué, Naël Klein et Christian Franck Ngatchou.
