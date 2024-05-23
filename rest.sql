@@ -4,10 +4,6 @@ sont envoyés en JSON au serveur.*/
 
 /* Utilisateurs (Users) */
 
-/* GET /users: Récupérer la liste de tous les utilisateurs. */
-SELECT * FROM utilisateurs
-WHERE isDeleted = FALSE;
-
 /* GET /users/:id: Récupérer les informations d'un utilisateur spécifique. */
 SELECT * FROM utilisateurs
 WHERE isDeleted = FALSE 
